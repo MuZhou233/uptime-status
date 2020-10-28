@@ -1,4 +1,4 @@
-
+/*
 * {
   border: 0;
   margin: 0;
@@ -72,8 +72,7 @@ a {
 #header .navi a:hover {
   color: #4B9B5D;
 }
-
-
+*/
 #uptime {
   background: #FFF;
   border: 1px solid #E3E4E6;
@@ -194,7 +193,7 @@ a {
   line-height: 15px;
   color: #999FA6;
 }
-
+/*
 #footer {
   text-align: center;
   font-size: 12px;
@@ -207,3 +206,4 @@ a {
   color: #58AD6A;
   font-weight: bold;
 }
+*/
